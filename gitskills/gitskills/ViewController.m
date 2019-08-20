@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"回滚前一个版本");
+    NSLog(@"我是回滚版本");
 }
 
 
