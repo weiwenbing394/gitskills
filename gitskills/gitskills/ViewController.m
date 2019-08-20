@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"主干工程");
+    NSLog(@"回滚前一个版本");
 }
 
 
