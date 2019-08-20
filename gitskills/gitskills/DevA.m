@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"A开发者再次改造了");
+    NSLog(@"多用户一起开发，devA提交新内容");
 }
 
 /*
