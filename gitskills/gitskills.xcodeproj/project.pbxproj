@@ -14,6 +14,7 @@
 		84BBC6DE230BBBD7002BF61B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BBC6DD230BBBD7002BF61B /* Assets.xcassets */; };
 		84BBC6E1230BBBD7002BF61B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BBC6DF230BBBD7002BF61B /* LaunchScreen.storyboard */; };
 		84BBC6E4230BBBD7002BF61B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BBC6E3230BBBD7002BF61B /* main.m */; };
+		84BBC6EC230BBDA5002BF61B /* DevA.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BBC6EB230BBDA5002BF61B /* DevA.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		84BBC6E0230BBBD7002BF61B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84BBC6E2230BBBD7002BF61B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84BBC6E3230BBBD7002BF61B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		84BBC6EA230BBDA5002BF61B /* DevA.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DevA.h; sourceTree = "<group>"; };
+		84BBC6EB230BBDA5002BF61B /* DevA.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DevA.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				84BBC6D5230BBBD5002BF61B /* SceneDelegate.m */,
 				84BBC6D7230BBBD5002BF61B /* ViewController.h */,
 				84BBC6D8230BBBD5002BF61B /* ViewController.m */,
+				84BBC6EA230BBDA5002BF61B /* DevA.h */,
+				84BBC6EB230BBDA5002BF61B /* DevA.m */,
 				84BBC6DA230BBBD5002BF61B /* Main.storyboard */,
 				84BBC6DD230BBBD7002BF61B /* Assets.xcassets */,
 				84BBC6DF230BBBD7002BF61B /* LaunchScreen.storyboard */,
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84BBC6EC230BBDA5002BF61B /* DevA.m in Sources */,
 				84BBC6D9230BBBD5002BF61B /* ViewController.m in Sources */,
 				84BBC6D3230BBBD5002BF61B /* AppDelegate.m in Sources */,
 				84BBC6E4230BBBD7002BF61B /* main.m in Sources */,
