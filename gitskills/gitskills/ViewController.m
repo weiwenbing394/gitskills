@@ -16,10 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"回滚前一个版本");
-    NSLog(@"我是回滚版本");
-    NSLog(@"我是回滚后一个版本");
-    NSLog(@"我是提交版本");
+    NSLog(@"主干工程新增");
 }
 
 

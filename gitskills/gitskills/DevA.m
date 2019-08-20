@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"A开发者回滚版本测试");
+    NSLog(@"我是A开发者新增的内容");
 }
 
 /*
