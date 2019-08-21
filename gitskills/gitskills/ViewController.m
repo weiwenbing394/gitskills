@@ -16,10 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //DEV A MODIFY
-    //DEV B
-    //dev a MODIFY
-    //dev B
 }
 
 
