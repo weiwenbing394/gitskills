@@ -19,11 +19,11 @@
 }
 
 - (void)devA{
-    //devA modify
+    
 }
 
 - (void)devB{
-    //devB
+    
 }
 
 
