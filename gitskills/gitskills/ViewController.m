@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"我是主干工程的测试");
+    NSLog(@"我是主干工程的测试2");
 }
 
 
