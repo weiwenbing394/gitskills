@@ -18,5 +18,13 @@
     [super viewDidLoad];
 }
 
+- (void)devA{
+    
+}
+
+- (void)devB{
+    
+}
+
 
 @end
